@@ -1,4 +1,6 @@
 # FinanceMate
+![Build Status](https://img.shields.io/badge/build-passing-brightgreen)
+![License](https://img.shields.io/badge/license-MIT-blue)
 
 **FinanceMate** is an intuitive and powerful financial calculator that helps you perform key financial calculations, including the Rule of 72, compound interest, future/present value of investments, and loan payments. It provides clear results, robust input validation, and logs all calculations for easy tracking.
 
